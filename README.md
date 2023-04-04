@@ -4,6 +4,6 @@ In this project, I cleansed a dataset and created visuals and machine learning m
 
 ## Resources 
 * Project blog post
-* [Project outline link](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/predict-hospital-readmissions-machine-learning)
+* [Project Instructions](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/predict-hospital-readmissions-machine-learning)
 * [Power BI ML tutorial](https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model) 
 * [Databricks](https://learn.microsoft.com/en-us/azure/databricks/) 
